@@ -18,5 +18,5 @@ Inicio
           FimSe 
 Fim
 
-![Fluxograma]()
+![Fluxograma](https://github.com/Feliciano-tech/Atividade_Estrutura_Condicional_03/blob/main/Fluxograma-calculo-da-media%20-%20P%C3%A1gina%201.png)
 
