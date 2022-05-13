@@ -5,10 +5,10 @@
 Inicio
   
     
-    leia nota da avaliacao Ac01
-        leia nota da avaliacao Ac02
-            leia nota da avaliacao AG
-               leia nota da avaliacao AF
+    ler nota da avaliacao Ac01
+        ler nota da avaliacao Ac02
+            ler nota da avaliacao AG
+               ler nota da avaliacao AF
                calcular (Ac01*0.15)+(Ac02*0.30)+(AG*0.10)+(AF*0.45)
                se valor igual maior que 5 então
                escreva(o aluno foi aprovado)
